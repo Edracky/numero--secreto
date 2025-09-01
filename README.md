@@ -43,7 +43,7 @@ Um jogo interativo desenvolvido para desafiar o usuário a adivinhar um número 
 
 ## 🎯 Captura de Tela
 
-![Exemplo de tela do Jogo Número Secreto](https://cdn-icons-png.flaticon.com/512/2731/2731544.png)
+![Exemplo de tela do Jogo Número Secreto](https://github.com/Edracky/numero--secreto/blob/main/img/Screenshot_20250901-020717_Chrome.jpg)
 
 ---
 
