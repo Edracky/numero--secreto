@@ -36,7 +36,7 @@ Um jogo interativo desenvolvido para desafiar o usuário a adivinhar um número 
 
 ## 🚀 Como Executar
 
-1. Abra o arquivo `index.html` em qualquer navegador moderno.  
+1. Abra o arquivo `https://numero-secreto-virid-five.vercel.app/` em qualquer navegador moderno.  
 2. Digite um número entre 1 e 100 e clique em "Chutar".  
 3. Use as dicas para ajustar seus palpites até acertar.  
 4. Divirta-se com o desafio!  
