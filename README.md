@@ -25,19 +25,16 @@ Um jogo interativo desenvolvido para desafiar o usuário a adivinhar um número 
 
 ## 📂 Estrutura do Projeto
 
-/
-├── index.html # Página com a estrutura do jogo
-├── style.css # Responsável pelos estilos visuais
-└── script.js # Lógica do jogo e manipulação da interface
-
-
+  - **index.html**        &rarr; Página principal com a estrutura do jogo  
+  - **style.css**         &rarr; Estilos visuais para o layout do jogo  
+  - **script.js**         &rarr; Lógica do jogo e interação com o usuário
 
 ---
 
 ## 🚀 Como Executar
 
 1. Abra o arquivo [https://numero-secreto-virid-five.vercel.app/]
-2. (https://numero-secreto-virid-five.vercel.app/) em qualquer navegador moderno.  
+2. em qualquer navegador moderno.  
 3. Digite um número entre 1 e 100 e clique em "Chutar".  
 4. Use as dicas para ajustar seus palpites até acertar.  
 5. Divirta-se com o desafio!  
